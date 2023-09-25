@@ -2,8 +2,8 @@ import data_trainer as trainer
 import api_helper as api
 import User_Data
 
-clientID =  "7aab6148c26545039fcbadd0fbf18f41"
-clientSecret = "f4ecf1ce33ea4d118bf14ca5b1ca153f"
+clientID =  ""
+clientSecret = ""
 
 #Training spotify data
 # trainer = trainer.data_trainer()
