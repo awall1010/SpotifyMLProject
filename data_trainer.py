@@ -5,8 +5,8 @@ import time
 class data_trainer():
     def __init__(self):
         self.helper = api_helper.api_helper()
-        self.clientId = "7aab6148c26545039fcbadd0fbf18f41"
-        self.clientSecret = "f4ecf1ce33ea4d118bf14ca5b1ca153f"
+        self.clientId = ""
+        self.clientSecret = ""
 
     def setHeaders(self, clientID, clientSecret):
         authToken = self.helper.getToken(clientID,clientSecret)
