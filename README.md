@@ -2,7 +2,7 @@
 This is a program that generates song attributes that we believe a user will like so they can find suggested songs at the end of playlists. It uses a LSTM, 
 and the training data is all of Spotify's public playlist, gathered by connecting to Spotify's developer API. It then allows a user to connect to Spotify API, 
 and by typing in their username, can find all of their public playlists and allow our LSTM model to predict other songs that would fit for the playlist. 
-See demo for more.
+Here is a demo of how our product works: https://www.youtube.com/watch?v=Lcc3ULKgoCQ.
 
 Spotify Attribute Generation
 Noah Masur, Ali Woodward, Aidan Wall
